@@ -54,7 +54,3 @@ h1 {
     padding: 8px 16px;
     border-radius: 99px;
 }
-
-.menu a.is_active, .menu a:hover{
-    background-color: var(--primary);
-}
